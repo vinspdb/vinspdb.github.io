@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Tenure-track Researcher (RTT), Dipartimento di Informatica, Università degli Studi di Bari Aldo Moro
 
