@@ -1,7 +1,3 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: "Vincenzo Pasquadibisceglie"
 first_name: Vincenzo
 middle_name:
@@ -25,16 +21,7 @@ keywords: >
   large language models, multimodal AI, healthcare AI
 
 lang: en
-
 icon: ⚛️
-
 apple_touch_icon:
-
 url: https://vinspdb.github.io
 baseurl: ""
-
-last_updated: false
-
-impressum_path:
-
-back_to_top: true
