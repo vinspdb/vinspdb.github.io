@@ -7,7 +7,7 @@ subtitle: Tenure-track Researcher (RTT), Dipartimento di Informatica, Universit√
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dipartimento di Informatica</p>
     <p>Universit√† degli Studi di Bari Aldo Moro</p>
