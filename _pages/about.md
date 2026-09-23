@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Tenure-track Researcher (RTT), Dipartimento di Informatica, Università degli Studi di Bari Aldo Moro
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dipartimento di Informatica</p>
+    <p>Università degli Studi di Bari Aldo Moro</p>
+    <p>Bari, Italy</p>
 
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a tenure-track researcher (RTT) in Computer Science at the [Dipartimento di Informatica](https://www.uniba.it/it), Università degli Studi di Bari Aldo Moro. My research focuses on **process mining**, **predictive process monitoring**, **Data-Centric AI**, **concept drift**, **multimodal learning**, **foundation models**, and **healthcare AI**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my PhD in Computer Science and Mathematics (Doctor Europaeus) from the University of Bari Aldo Moro in 2021, with a thesis on predictive process mining for improving business process management, funded by a PON RI 2014–2020 fellowship. Before my current position, I was an RTD-A researcher (2023–2026) within the PNRR FAIR project (Spoke 6, "Symbiotic AI"), and a technical collaborator with CINI on the EU Horizon 2020 project CounteR (2021–2022).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold the National Scientific Habilitation (Abilitazione Scientifica Nazionale) as Associate Professor in both sector 09/H1 (Information Processing Systems, 2025) and sector 01/B1 (Computer Science, 2026).
+
+I am a member of the [KDDE Research Laboratory](https://www.uniba.it/) (Knowledge Discovery & Data Engineering), the Interdepartmental Research Centre in Medicine, Big Data and Data Science Unit, CINI (Bari node), and the IEEE Task Force on Process Mining.
+
+I currently serve as Principal Investigator on three competitively funded grants — **PROMETEO** (ERC SEED UNIBA), **LLAMP** and **PROMPT** (ISCRA C / EuroHPC Leonardo) — and as an editorial board member for *Discover Artificial Intelligence* and *Machine Learning* (Springer, both Q1 in Artificial Intelligence).
+
+See the [Research]({{ '/research/' | relative_url }}) page for selected work, and [Awards & Grants]({{ '/awards/' | relative_url }}) for funding, prizes, and service roles.
