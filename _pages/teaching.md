@@ -1,12 +1,13 @@
 ---
-
 layout: page
 permalink: /teaching/
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-------------
+nav_order: 2
+---
+
+<!-- _pages/teaching.md -->
 
 # Teaching
 
