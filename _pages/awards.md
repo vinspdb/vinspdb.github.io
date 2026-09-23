@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: awards & grants
+title: Awards&Grants
 nav: true
 nav_order: 5
 ---
@@ -27,7 +27,3 @@ nav_order: 5
 - Co-chair, ML4PM workshop (with ICPM, 2024–2027, CORE Rank B)
 - Publicity co-chair, ECML-PKDD 2026 (CORE Rank A)
 - Lecturer, European Summer School on Artificial Intelligence (ESSAI 2024, ESSAI 2025) — courses on Data-Centric AI
-
-### Collaborations
-
-- Research stay (remote, due to Covid-19) and ongoing collaboration with **Prof. Wil van der Aalst** (RWTH Aachen), leading authority in process mining
