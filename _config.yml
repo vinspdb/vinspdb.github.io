@@ -509,8 +509,13 @@ enable_video_embedding: false
 # Library versions
 # -----------------------------------------------------------------------------
 
+# -----------------------------------------------------------------------------
+# Jekyll 3rd Party Libraries (cache-busting)
+# -----------------------------------------------------------------------------
 third_party_libraries:
-  download: false
+  path: "assets"
+  values:
+    sitemap: false
 
   bootstrap-table:
     integrity:
