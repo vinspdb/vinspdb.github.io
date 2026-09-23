@@ -1,4 +1,4 @@
-------------
+---
 
 layout: page
 permalink: /teaching/
@@ -28,7 +28,7 @@ Module of the **Master's Degree in Data Science**, jointly organized by the Depa
 
 ### June 2026
 
-**Bridging Adversarial Learning and Data-Centric AI for Robust AI** — 31 hours, of which 16 hours (2 CFU) assigned to Vincenzo Pasquadibisceglie
+**Bridging Adversarial Learning and Data-Centric AI for Robust AI** — 31 hours, of which 16 hours (2 CFU) assigned to Vincenzo Pasquadibisceglie.
 *English*
 
 Course for the **XLI Cycle PhD Programme in Computer Science and Mathematics** at the University of Bari Aldo Moro, delivered as part of the teaching workload.
@@ -37,27 +37,28 @@ Course for the **XLI Cycle PhD Programme in Computer Science and Mathematics** a
 
 ### March 2025
 
-**The Role of AI in Modern Business Process Management** — 31 hours, 3 CFU
+**The Role of AI in Modern Business Process Management** — 31 hours, 3 CFU.
 *English*
 
-Course for the **XL Cycle PhD Programme in Computer Science and Mathematics** at the University of Bari Aldo Moro.
+Course for the **XL Cycle PhD Programme in Computer Science and Mathematics** at the University of Bari Aldo Moro, delivered as part of the teaching workload.
 
 [PhD Programme — XL Cycle](https://dottorato.di.uniba.it/?XL_Cycle%2C_starting_2024-2025___Study_Plan_and_Courses_2024-2026)
 
 ### April–May 2024
 
-**Intelligenza artificiale basata sui dati** — 30 hours, 4 CFU
+**Intelligenza artificiale basata sui dati** — 30 hours, 4 CFU.
 *Italian*
 
 Transversal Skills Course at the **University of Bari Aldo Moro**, reserved for PhD students and medical/specialist trainees.
+
 [Digital Skills — PhD Students and Trainees](https://www.uniba.it/it/didattica/competenze-trasversali/dottorandi-e-specializzandi/competenze-digitali)
 
 ### November–December 2023
 
-**Data-Centric AI: Transforming Raw Data into Smart Data** — 31 hours, 3 CFU
+**Data-Centric AI: Transforming Raw Data into Smart Data** — 31 hours, 3 CFU.
 *English*
 
-Course for the **XXXIX Cycle PhD Programme in Computer Science and Mathematics** at the University of Bari Aldo Moro.
+Course for the **XXXIX Cycle PhD Programme in Computer Science and Mathematics** at the University of Bari Aldo Moro, delivered as part of the teaching workload.
 
 [PhD Programme — XXXIX Cycle](https://dottorato.di.uniba.it/?XXXIX_Cycle%2C_starting_2023-2024___Study_Plan_and_Courses_2023-2025)
 
@@ -66,34 +67,37 @@ Course for the **XXXIX Cycle PhD Programme in Computer Science and Mathematics**
 ## Teaching in Degree Programmes
 
 ### A.A. 2026–2027
+
 **Analisi dei Dati per la Sicurezza** — 6 CFU, of which 15 hours (1 CFU) assigned to Vincenzo Pasquadibisceglie.
 
-**Master's Degree in CyberSecurity** at the University of Bari Aldo Moro - Taranto.
+**Master's Degree in CyberSecurity**
+University of Bari Aldo Moro — Taranto.
 
 **Data Mining** — 6 CFU, of which 30 hours (3 CFU) assigned to Vincenzo Pasquadibisceglie.
 
-**Master's Degree in Data Science** at the University of Bari Aldo Moro.
+**Master's Degree in Data Science**
+University of Bari Aldo Moro.
 
-**Data Mining II** — 6 CFU
+**Data Mining II** — 6 CFU.
 
-**Master's Degree in Data Science** at the University of Bari Aldo Moro.
+**Master's Degree in Data Science**
+University of Bari Aldo Moro.
 
 **Elementi di Data Mining** — 6 CFU, of which 30 hours (3 CFU) assigned to Vincenzo Pasquadibisceglie.
 
-**Bachelor's Degree in Data Science** at the University of Bari Aldo Moro.
-
-
-
+**Bachelor's Degree in Data Science**
+University of Bari Aldo Moro.
 
 ### A.A. 2025–2026
 
-**Data Mining II** — 6 CFU 
+**Data Mining II** — 6 CFU.
 
-**Master's Degree in Data Science** at the University of Bari Aldo Moro.
+**Master's Degree in Data Science**
+University of Bari Aldo Moro.
 
 ### April–June 2025
 
-**Strumenti e tecniche per l'Intelligenza Artificiale incentrata sui dati** — 30 hours, 4 CFU
+**Strumenti e tecniche per l'Intelligenza Artificiale incentrata sui dati** — 30 hours, 4 CFU.
 *Italian*
 
 Transversal Skills Course at the **University of Bari Aldo Moro**, open to students and external participants.
@@ -102,7 +106,7 @@ Transversal Skills Course at the **University of Bari Aldo Moro**, open to stude
 
 ### January–February 2024
 
-**Analisi dei dati per la gestione dei processi** — 30 hours, 4 CFU
+**Analisi dei dati per la gestione dei processi** — 30 hours, 4 CFU.
 *Italian*
 
 Transversal Skills Course at the **University of Bari Aldo Moro**, open to students and external participants.
@@ -115,7 +119,7 @@ Transversal Skills Course at the **University of Bari Aldo Moro**, open to stude
 
 ### April 2025
 
-**Predictive Process Monitoring and Process Automation** — 12 hours
+**Predictive Process Monitoring and Process Automation** — 12 hours.
 *English*
 
 Course within the **Master's Programme in Business Process Mining and Business Process Management** at the **Institute of Computer Science, University of Tartu, Estonia**.
