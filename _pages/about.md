@@ -14,8 +14,8 @@ profile:
     <p>Bari, Italy</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a tenure-track researcher (RTT) in Computer Science at the [Dipartimento di Informatica](https://www.uniba.it/it/ricerca/dipartimenti/informatica), Università degli Studi di Bari Aldo Moro. My research focuses on **Process Mining**, **Predictive Process Monitoring**, **Data-Centric AI**, **Concept Drift**, and **Healthcare AI**.
