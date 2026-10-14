@@ -1,81 +1,26 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
+title: LLAMP
+description: Large Language Models for Predictive Process Monitoring (ISCRA-C, EuroHPC LEONARDO, 2024–2025)
 importance: 3
-category: work
+role: PI
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Role:** Principal Investigator  
+**Funding:** ISCRA-C access to the EuroHPC LEONARDO supercomputer (CINECA), 80,000 GPU-hours
+**Period:** 2024–2025
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The main goal of this project is to develop advanced Artificial Intelligence (AI) systems for Predictive Process Monitoring (PPM), a branch of process mining that aims to predict the future of an ongoing (uncompleted) execution of a business process, for example its outcome, its completion time, or the sequence of its future activities.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Recent studies have addressed PPM using different representations of trace data (sequences, images and tables), reaching high accuracy with deep neural architectures such as LSTM, Transformer, CNN and ViT. A few pioneering works have started to describe business process traces as a textual history. This representation is particularly suitable for Large Language Models (LLMs), which can be adapted to business process management to address PPM tasks.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Why LLMs for PPM
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+LLMs can leverage the contextual information recorded together with historical process data to improve both accuracy and the explainability of decisions, in a Symbiotic AI perspective: human stakeholders' knowledge is used to improve the accuracy of AI systems, and AI decisions must be understandable to humans to earn their trust. LLMs can also interpret natural language descriptions of processes, including documentation, reports and communication logs, extracting context from textual sources. The expected gain in accuracy and explainability may enable proactive decision-making and intervention to prevent or mitigate disruptions and inefficiencies.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Outputs
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+- Pasquadibisceglie, V., Appice, A., Malerba, D., Fiameni, G. **Leveraging a large language model (LLM) to predict hospital admissions of emergency department patients.** *Expert Systems with Applications*, 287, 128224, 2025. [doi:10.1016/j.eswa.2025.128224](https://doi.org/10.1016/j.eswa.2025.128224)
+- Pasquadibisceglie, V., Recchia, V., Appice, A., Malerba, D., Fiameni, G. **GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images.** In *Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25)*, Catania, Italy, March 31–April 4, 2025. ACM. [doi:10.1145/3672608.3707751](https://doi.org/10.1145/3672608.3707751)
