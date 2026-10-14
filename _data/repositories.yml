@@ -4,12 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-github_users:
-  - vinspdb
-
-repo_description_lines_max: 2
-
-github_repos:
   - vinspdb/DOROTHY
   - vinspdb/MEDUSA
   - vinspdb/LEGOLAS
