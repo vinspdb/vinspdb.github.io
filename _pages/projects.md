@@ -35,12 +35,3 @@ horizontal: false
   {% endif %}
   {% endif %}
 </div>
-
----
-layout: page
-title: PROMETEO
-description: Predictive process monitoring in the era of data-centric AI (ERC SEED UNIBA, 2024–2025)
-img: assets/img/prometeo.jpg
-importance: 1
-role: PI
----
