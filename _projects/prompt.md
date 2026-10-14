@@ -4,6 +4,7 @@ title: PROMPT
 description: PRedictive mOnitoring with Multimodal Process daTa (ISCRA-C, EuroHPC LEONARDO, 2025)
 importance: 2
 role: PI
+status: Closed
 ---
 
 **Role:** Principal Investigator  
