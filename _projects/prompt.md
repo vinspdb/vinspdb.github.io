@@ -22,10 +22,6 @@ The goal is to combine heterogeneous data to produce accurate insights into the 
 
 A distinctive aspect of PROMPT is the use of multimodal neural networks and data fusion algorithms. They integrate structured logs (such as timestamps and case identifiers) with unstructured data (such as texts or images), using natural language processing and computer vision. The project aims at solutions applicable to several industrial sectors, including manufacturing, logistics and healthcare.
 
-## Why high-performance computing
-
-LLMs and Vision-Language Models (VLMs) show remarkable performance in many domains, but running them on a single GPU is a bottleneck in terms of efficiency, and some architectures (such as GPT-2) do not fit in the memory of a single GPU. A cluster of machines offers clear advantages in efficiency and performance, allowing PPM research to reach new milestones.
-
 ## Outputs
 
 - Pasquadibisceglie, V., Donadello, I., Appice, A., Lanz, O., Maggi, F.M., Fiameni, G., Malerba, D. **Multimodal predictive process monitoring and its application to explainable clinical pathways.** *Information Systems*, 139, 102698, 2026. [doi:10.1016/j.is.2026.102698](https://doi.org/10.1016/j.is.2026.102698)
