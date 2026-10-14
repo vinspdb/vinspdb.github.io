@@ -7,7 +7,7 @@ role: PI
 ---
 
 **Role:** Principal Investigator  
-**Funding:** ISCRA-C access to the EuroHPC LEONARDO supercomputer (CINECA), 80,000 GPU-hours, in collaboration with the NVIDIA AI Technology Center Italy  
+**Funding:** ISCRA-C access to the EuroHPC LEONARDO supercomputer (CINECA), 80,000 GPU-hours
 **Period:** 2025
 
 ## Overview
