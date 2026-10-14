@@ -2,15 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+description:
 nav: true
 nav_order: 3
 ---
 
 <!-- _pages/teaching.md -->
-
-# Teaching
-
 ## Teaching in Master Nazionali
 
 ### A.A. 2023–2024
