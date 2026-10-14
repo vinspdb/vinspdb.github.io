@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research projects where I am Principal Investigator.
+description: Research projects where I currently serve or have served as Principal Investigator.
 nav: true
 nav_order: 3
 horizontal: false
