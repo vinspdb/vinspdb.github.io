@@ -4,6 +4,7 @@ title: LLAMP
 description: Large Language Models for Predictive Process Monitoring (ISCRA-C, EuroHPC LEONARDO, 2024–2025)
 importance: 3
 role: PI
+status: Closed
 ---
 
 **Role:** Principal Investigator  
