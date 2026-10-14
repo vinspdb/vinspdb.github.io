@@ -22,5 +22,5 @@ LLMs can leverage the contextual information recorded together with historical p
 
 ## Outputs
 
-- Pasquadibisceglie, V., Appice, A., Malerba, D., Fiameni, G. **Leveraging a large language model (LLM) to predict hospital admissions of emergency department patients.** *Expert Systems with Applications*, 287, 128224, 2025. [doi:10.1016/j.eswa.2025.128224](https://doi.org/10.1016/j.eswa.2025.128224)
-- Pasquadibisceglie, V., Recchia, V., Appice, A., Malerba, D., Fiameni, G. **GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images.** In *Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25)*, Catania, Italy, March 31–April 4, 2025. ACM. [doi:10.1145/3672608.3707751](https://doi.org/10.1145/3672608.3707751)
+- Pasquadibisceglie, V., Appice, A., Malerba, D., Fiameni, G. **Leveraging a large language model (LLM) to predict hospital admissions of emergency department patients.** _Expert Systems with Applications_, 287, 128224, 2025. [doi:10.1016/j.eswa.2025.128224](https://doi.org/10.1016/j.eswa.2025.128224)
+- Pasquadibisceglie, V., Recchia, V., Appice, A., Malerba, D., Fiameni, G. **GANDALF: A LLM-based approach to map bark beetle outbreaks in semantic stories of Sentinel-2 images.** In _Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing (SAC '25)_, Catania, Italy, March 31–April 4, 2025. ACM. [doi:10.1145/3672608.3707751](https://doi.org/10.1145/3672608.3707751)
